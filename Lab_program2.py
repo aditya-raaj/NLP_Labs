@@ -93,6 +93,6 @@ def clean_text(file_path, output_file):
 
 # ----------------------------------
 # Run the function with your files
-file_path = "C:/Users/Sowmya/Documents/NLP/NLP_Labs/Sample_input_labprg2.txt"
-output_file = "C:/Users/Sowmya/Documents/NLP/NLP_Labs/Cleaned_output_all_tokens.txt"
+file_path = "./Sample_input_labprg2.txt"
+output_file = "./Cleaned_output_all_tokens.txt"
 clean_text(file_path, output_file)

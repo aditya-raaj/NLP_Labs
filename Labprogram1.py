@@ -60,5 +60,5 @@ def extract_emails_from_docx(file_path):
 # -------------------------------
 
 # Provide the file path of your Word document here
-file_path = "C:/Users/Sowmya/Documents/NLP/NLP_Labs/lab1_input.docx"
+file_path = "./lab1_input.docx"
 extract_emails_from_docx(file_path)

@@ -11,9 +11,12 @@ from nltk import pos_tag
 
 # === Load offline resources (assumes already downloaded once)
 # Remove nltk.download(...) if running offline
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger_eng')
 
 # === Input File Path (change accordingly)
-input_file_path = "C:/Users/Sowmya/Documents/NLP/NLP_Labs/NLP_Lab3_Input.docx"
+input_file_path = "./NLP_Lab3_Input.docx"
 
 # === Load File Content ===
 def load_input_text(file_path):
