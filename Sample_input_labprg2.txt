@@ -1,0 +1,15 @@
+What is Natural Language Processing?
+
+Natural Language Processing (NLP) is a sub-field of Artificial Intelligence. It focuses on enabling computers to understand and interpret human language. In simple terms, NLP helps machines "read" and "understand" what we speak or write.
+
+For example: When you use a chatbot, speak to Siri, or type a query in Google Search — NLP is working in the background!
+
+NLP involves many tasks: Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Sentiment Analysis, Machine Translation, and more.
+
+Why do we clean text before applying NLP?
+
+We need to convert all text into lowercase, remove punctuation marks like commas, periods, and quotes. We also remove stopwords such as "is", "a", "the", "and", "in", "of", "on", etc.
+
+Cleaning helps in reducing noise and making the core content more meaningful for the algorithm to learn.
+
+Let's learn and build real-world applications with Python!

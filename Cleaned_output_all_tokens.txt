@@ -1,0 +1,23 @@
+Cleaned Word Tokens (Stopwords Removed):
+natural language processing natural language processing nlp subfield artificial intelligence focuses enabling computers understand interpret human language simple terms nlp helps machines read understand speak write example use chatbot speak siri type query google search â€” nlp working background nlp involves many tasks tokenization partofspeech tagging named entity recognition sentiment analysis machine translation clean text applying nlp need convert text lowercase remove punctuation marks like commas periods quotes also remove stopwords etc cleaning helps reducing noise making core content meaningful algorithm learn lets learn build realworld applications python
+
+Character Tokens:
+w h a t i s n a t u r a l l a n g u a g e p r o c e s s i n g 
+ 
+ n a t u r a l l a n g u a g e p r o c e s s i n g n l p i s a s u b f i e l d o f a r t i f i c i a l i n t e l l i g e n c e i t f o c u s e s o n e n a b l i n g c o m p u t e r s t o u n d e r s t a n d a n d i n t e r p r e t h u m a n l a n g u a g e i n s i m p l e t e r m s n l p h e l p s m a c h i n e s r e a d a n d u n d e r s t a n d w h a t w e s p e a k o r w r i t e 
+ 
+ f o r e x a m p l e w h e n y o u u s e a c h a t b o t s p e a k t o s i r i o r t y p e a q u e r y i n g o o g l e s e a r c h â € ” n l p i s w o r k i n g i n t h e b a c k g r o u n d 
+ 
+ n l p i n v o l v e s m a n y t a s k s t o k e n i z a t i o n p a r t o f s p e e c h t a g g i n g n a m e d e n t i t y r e c o g n i t i o n s e n t i m e n t a n a l y s i s m a c h i n e t r a n s l a t i o n a n d m o r e 
+ 
+ w h y d o w e c l e a n t e x t b e f o r e a p p l y i n g n l p 
+ 
+ w e n e e d t o c o n v e r t a l l t e x t i n t o l o w e r c a s e r e m o v e p u n c t u a t i o n m a r k s l i k e c o m m a s p e r i o d s a n d q u o t e s w e a l s o r e m o v e s t o p w o r d s s u c h a s i s a t h e a n d i n o f o n e t c 
+ 
+ c l e a n i n g h e l p s i n r e d u c i n g n o i s e a n d m a k i n g t h e c o r e c o n t e n t m o r e m e a n i n g f u l f o r t h e a l g o r i t h m t o l e a r n 
+ 
+ l e t s l e a r n a n d b u i l d r e a l w o r l d a p p l i c a t i o n s w i t h p y t h o n 
+
+
+Subword Tokens (2–4 chars):
+what is natu ral lang uage proc essi ng natu ral lang uage proc essi ng nlp is subf ield of arti fici al inte llig ence it focu ses on enab ling comp uter to unde rsta nd and inte rpre huma lang uage in simp le term nlp help mach ines read and unde rsta nd what we spea or writ for exam ple when you use chat bot spea to siri or type quer in goog le sear ch nlp is work ing in the back grou nd nlp invo lves many task toke niza tion part ofsp eech tagg ing name enti ty reco gnit ion sent imen anal ysis mach ine tran slat ion and more why do we clea text befo re appl ying nlp we need to conv ert all text into lowe rcas remo ve punc tuat ion mark like comm as peri ods and quot es we also remo ve stop word such as is the and in of on etc clea ning help in redu cing nois and maki ng the core cont ent more mean ingf ul for the algo rith to lear lets lear and buil real worl appl icat ions with pyth on

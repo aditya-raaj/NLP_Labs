@@ -1,0 +1,6 @@
+nltk
+contractions
+pyspellchecker
+pandas
+scikit-learn
+python-docx
